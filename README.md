@@ -1,6 +1,6 @@
 <div align=center>
   
-# CustomSearchBar
+# Custom SearchBar with RxSwift
 <image src="https://user-images.githubusercontent.com/80438047/152357624-21e60011-b3ee-4435-a56e-4a88f8157193.gif" width="200">
 </div>
   
